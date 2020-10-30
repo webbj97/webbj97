@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m jiangbojian ,a console log tester
-- 🏫 I’m learning JavaScript and continuous learning Js
 - 🏢 I'm currently working at **GaoDing Design**
 
 - 🚀 I use daily:
@@ -17,5 +16,5 @@
 - 📒I'm recording at CSDN：
   ![CSDN](https://img.shields.io/badge/-csdn-green)
 
+<a href="https://blog.csdn.net/jbj6568839z">![panel](https://github-readme-stats.vercel.app/api?username=hongxinzz)</a>
 
-![panel](https://github-readme-stats.vercel.app/api?username=hongxinzz)
