@@ -2,9 +2,6 @@
 
 - 🔭 I’m jiangbojian ,a console log tester
 - 🏫 I’m learning JavaScript and continuous learning Js
-- 🌱 博客：[CSDN](https://blog.csdn.net/jbj6568839z) 
-- 💼 公司：稿定设计
-
 - 🏢 I'm currently working at **GaoDing Design**
 
 - 🚀 I use daily:
