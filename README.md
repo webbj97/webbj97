@@ -16,5 +16,5 @@
 - 📒I'm recording at CSDN：
   ![CSDN](https://img.shields.io/badge/-csdn-green)
 
-<a href="https://blog.csdn.net/jbj6568839z">![panel](https://github-readme-stats.vercel.app/api?username=bojian)</a>
+<a href="https://blog.csdn.net/jbj6568839z">![panel](https://github-readme-stats.vercel.app/api?username=webbj97)</a>
 
