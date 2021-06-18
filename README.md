@@ -72,7 +72,10 @@
             data-canonical-src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&amp;logo=eslint"
             style="max-width:100%;"></a>
 </p>
-- 📒I'm recording at CSDN：
-![CSDN](https://img.shields.io/badge/-csdn-green)
+
+## 📒I'm recording at：
+
+* [CSDN](https://blog.csdn.net/jbj6568839z)
+* [掘金](https://juejin.cn/user/3403743730351982)
 
 <a href="https://blog.csdn.net/jbj6568839z">![panel](https://github-readme-stats.vercel.app/api?username=webbj97)</a>
