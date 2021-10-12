@@ -1,4 +1,4 @@
-## Hi there 👋 I’m <a href="https://github.com/webbj97">余光</a>
+### Hi there 👋 I’m 余光
 
 Writing Vue and JavaScript   
 Working at GaoDing Design    
