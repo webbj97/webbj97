@@ -1,36 +1,28 @@
-<h1 align="center">Hi there 👋 I’m <a href="https://github.com/webbj97">余光</a></h1>
-<h2 align="center">
-    a console log tester<br>I'm currently working at <b>GaoDing Design</b>
-</h2>
+## Hi there 👋 I’m <a href="https://github.com/webbj97">余光</a>
 
-<h2>我的博客</h2>
+Writing Vue and JavaScript   
+Working at GaoDing Design    
+A console log tester
 
-* [余光CSDN博客汇总](https://blog.csdn.net/jbj6568839z)
-* [前端基础系列](https://github.com/webbj97/summary)
-* [前端进阶系列](https://github.com/webbj97/summary)
-* [ES6系列](https://github.com/webbj97/summary)
-* [LeetCode题解](https://github.com/webbj97/leetCode-Js)
-* [有趣的CSS小demo](https://github.com/webbj97/Interesting-CSS)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=webbj97&show_icons=true&theme=cobalt&hide_title=true" />
 
-## 🚀 I use daily:
+### 🚀 I use daily:
 
-<p><a href="https://en.wikipedia.org/wiki/MacOS" rel="nofollow"><img
-            src="https://camo.githubusercontent.com/a0c3f529eb9d72fe36afdd3a65e52dcc833faea3921e91012fd6fa53a5b4370c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d6d61634f532d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465"
+<p>
+    <img src="https://camo.githubusercontent.com/a0c3f529eb9d72fe36afdd3a65e52dcc833faea3921e91012fd6fa53a5b4370c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d6d61634f532d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465"
             alt="OS"
             data-canonical-src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&amp;logo=apple&amp;logoColor=white"
-            style="max-width:100%;"></a>
-    <a href="https://en.wikipedia.org/wiki/Linux" rel="nofollow"><img
+            style="max-width:100%;">
+    <img
             src="https://camo.githubusercontent.com/8284c94af11d380053b5751b96d4c904cf33ea887881213d413e0f14920549dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f532d4c696e75782d696e666f726d6174696f6e616c3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465"
             alt="OS"
             data-canonical-src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&amp;logo=linux&amp;logoColor=white"
-            style="max-width:100%;"></a>
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img
-            src="https://camo.githubusercontent.com/34e1d6cf86eabc48d001670de2505a851b3c1e4d80f8ed9af673591f149a8d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d5653436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"
+            style="max-width:100%;">
+    <img            src="https://camo.githubusercontent.com/34e1d6cf86eabc48d001670de2505a851b3c1e4d80f8ed9af673591f149a8d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d5653436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"
             alt="Editor"
             data-canonical-src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=white"
-            style="max-width:100%;"></a>
-</p>
-<p><a target="_blank" rel="noopener noreferrer"
+            style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer"
         href="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"><img
             src="https://camo.githubusercontent.com/9a7c8c4ee62739436a191706be9f786a813dc377ce778522da198cb94874dc22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"
             alt="HTML5"
@@ -73,9 +65,15 @@
             style="max-width:100%;"></a>
 </p>
 
-## 📒I'm recording at：
+### 📒I'm recording at：
 
-* [CSDN](https://blog.csdn.net/jbj6568839z)
-* [掘金](https://juejin.cn/user/3403743730351982)
+* [余光CSDN博客汇总](https://blog.csdn.net/jbj6568839z)
+* [前端基础系列](https://github.com/webbj97/summary)
+* [前端进阶系列](https://github.com/webbj97/summary)
+* [ES6系列](https://github.com/webbj97/summary)
+* [LeetCode题解](https://github.com/webbj97/leetCode-Js)
+* [有趣的CSS小demo](https://github.com/webbj97/Interesting-CSS)
 
-<a href="https://blog.csdn.net/jbj6568839z">![panel](https://github-readme-stats.vercel.app/api?username=webbj97)</a>
+
+
+
