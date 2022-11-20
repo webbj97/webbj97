@@ -67,12 +67,9 @@ A console log tester
 
 ### 📒I'm recording at：
 
-* [余光CSDN博客汇总](https://blog.csdn.net/jbj6568839z)
-* [前端基础系列](https://github.com/webbj97/summary)
-* [前端进阶系列](https://github.com/webbj97/summary)
-* [ES6系列](https://github.com/webbj97/summary)
-* [LeetCode题解](https://github.com/webbj97/leetCode-Js)
-* [有趣的CSS小demo](https://github.com/webbj97/Interesting-CSS)
+* [余光Summary](https://github.com/webbj97/summary)
+* [LeetCode防退化练习](https://github.com/webbj97/leetCode-Js)
+* [有趣的Canvas小demo](https://webbj97.github.io/yuguang-vite/)
 
 
 
