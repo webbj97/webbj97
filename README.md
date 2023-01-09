@@ -1,8 +1,8 @@
 ### Hi there 👋 I’m 余光
 
-Writing Vue and TypeScript   
+Writing Vue and JavaScript   
 Working at GaoDing Design    
-
+A console log tester
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=webbj97&show_icons=true&theme=cobalt&hide_title=true" />
 
@@ -45,12 +45,7 @@ Working at GaoDing Design
             alt="Vue.js"
             data-canonical-src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&amp;logo=Vue.js"
             style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"
-        href="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374"><img
-            src="https://camo.githubusercontent.com/32f7eabbb5fe286fbef8c54edd4e11e30722216a79c104f49289c310fb11494b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374"
-            alt="React"
-            data-canonical-src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&amp;logo=react"
-            style="max-width:100%;"></a>
+   
     <a target="_blank" rel="noopener noreferrer"
         href="https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b"><img
             src="https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b"
