@@ -1,8 +1,8 @@
 ### Hi there 👋 I’m 余光
 
-Writing Vue and JavaScript   
+Writing Vue and TypeScript   
 Working at GaoDing Design    
-A console log tester
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=webbj97&show_icons=true&theme=cobalt&hide_title=true" />
 
