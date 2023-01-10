@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m 余光
 
-Writing Vue and JavaScript   
+Writing Vue and TypeScript   
 Working at GaoDing Design    
 A console log tester
 
@@ -46,25 +46,12 @@ A console log tester
             data-canonical-src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&amp;logo=Vue.js"
             style="max-width:100%;"></a>
    
-    <a target="_blank" rel="noopener noreferrer"
-        href="https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b"><img
-            src="https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b"
-            alt="Webpack"
-            data-canonical-src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&amp;logo=webpack"
-            style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer"
-        href="https://camo.githubusercontent.com/01baed6fed681626e4afacc2fd8e49fa698e8952e3ee78a844020a6cffbabe0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d2532333442333243333f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74"><img
-            src="https://camo.githubusercontent.com/01baed6fed681626e4afacc2fd8e49fa698e8952e3ee78a844020a6cffbabe0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45534c696e742d2532333442333243333f7374796c653d666c61742d737175617265266c6f676f3d65736c696e74"
-            alt="ESlint"
-            data-canonical-src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&amp;logo=eslint"
-            style="max-width:100%;"></a>
 </p>
 
 ### 📒I'm recording at：
 
-* [余光Summary](https://github.com/webbj97/summary)
-* [LeetCode防退化练习](https://github.com/webbj97/leetCode-Js)
-* [有趣的Canvas小demo](https://webbj97.github.io/yuguang-vite/)
+* [余光的前端笔记](https://github.com/webbj97/summary)
+* [Canvas系列](https://webbj97.github.io/yuguang-canvas/)
 
 
 
